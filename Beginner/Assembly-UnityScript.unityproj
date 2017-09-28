@@ -58,7 +58,9 @@
      <Compile Include="Assets\Scripts\CoinSystem.js" />
      <Compile Include="Assets\Scripts\EnemyScript.js" />
      <Compile Include="Assets\Scripts\Pickup.js" />
-     <Compile Include="Assets\Scripts\Quest001.js" />
+     <Compile Include="Assets\Scripts\Quests\Quest001Active.js" />
+     <Compile Include="Assets\Scripts\Quests\Quest001End.js" />
+     <Compile Include="Assets\Scripts\Quests\Quest001Start.js" />
      <Compile Include="Assets\Scripts\Warp.js" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
