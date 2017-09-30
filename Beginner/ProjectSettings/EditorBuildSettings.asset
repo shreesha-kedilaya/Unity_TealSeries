@@ -8,3 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TitleScreen.unity
     guid: 9f22f401767cb4c33b0e6d5791c45d60
+  - enabled: 1
+    path: Assets/area001.unity
+    guid: 62b3eac7974304457bfec6b6da7d936b
