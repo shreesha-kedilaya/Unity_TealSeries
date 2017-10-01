@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\000_AreaStart.js" />
      <Compile Include="Assets\Scripts\AnimateWeapon.js" />
      <Compile Include="Assets\Scripts\AttackScript.js" />
      <Compile Include="Assets\Scripts\CoinCollect.js" />
@@ -58,6 +59,7 @@
      <Compile Include="Assets\Scripts\CoinSystem.js" />
      <Compile Include="Assets\Scripts\EnemyScript.js" />
      <Compile Include="Assets\Scripts\Pickup.js" />
+     <Compile Include="Assets\Scripts\Quests\MainQuest\001_QuestBegin.js" />
      <Compile Include="Assets\Scripts\Quests\Quest001Active.js" />
      <Compile Include="Assets\Scripts\Quests\Quest001End.js" />
      <Compile Include="Assets\Scripts\Quests\Quest001Start.js" />
