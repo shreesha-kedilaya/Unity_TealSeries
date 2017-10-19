@@ -38,7 +38,7 @@ function Update() {
 			MessageBox.SetActive(false);
 			TextBoxOnCheck = 0;
 
-			TextMessage = "Villager: Get goind then!";	
+			TextMessage = "Villager: Get going then!";	
 		}
 	}
 
@@ -48,7 +48,7 @@ function Update() {
 			MessageBox.SetActive(false);
 			TextBoxOnCheck = 0;
 
-			TextMessage = "Villager: Get goind then!";	
+			TextMessage = "Villager: Get going then!";	
 		}
 	}
 }
